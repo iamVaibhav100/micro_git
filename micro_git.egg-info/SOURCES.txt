@@ -1,9 +1,0 @@
-README.md
-setup.py
-micro_git/__init__.py
-micro_git/cli.py
-micro_git.egg-info/PKG-INFO
-micro_git.egg-info/SOURCES.txt
-micro_git.egg-info/dependency_links.txt
-micro_git.egg-info/entry_points.txt
-micro_git.egg-info/top_level.txt
