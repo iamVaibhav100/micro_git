@@ -1,2 +1,6 @@
 # virtual environment
 venv
+
+.idea
+
+testrepo
